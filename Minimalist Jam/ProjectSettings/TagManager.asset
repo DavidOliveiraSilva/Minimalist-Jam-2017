@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - platform
+  - ParticleDestroyer
+  - ground
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 4039875521
+    locked: 0
+  - name: Scenario
+    uniqueID: 1150438999
+    locked: 0
+  - name: Interact
+    uniqueID: 4115979653
+    locked: 0
+  - name: Player
+    uniqueID: 1788379907
+    locked: 0
+  - name: Effects
+    uniqueID: 1594660211
+    locked: 0
+  - name: HUD
+    uniqueID: 336612043
     locked: 0
