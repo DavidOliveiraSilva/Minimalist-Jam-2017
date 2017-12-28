@@ -52,7 +52,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bdefc3cd17c94a40bd65c4d51f5f7a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  particle: {fileID: 1646683795625498, guid: d4cef60c035819341b73717f1834c080, type: 2}
+  particle: {fileID: 1063801554898380, guid: d4cef60c035819341b73717f1834c080, type: 2}
   interval: 1
   minAngle: -1.7
   maxAngle: -0.8
